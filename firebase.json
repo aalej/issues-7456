@@ -6,7 +6,7 @@
       "indexes": "firestore.default.indexes.json"
     },
     {
-      "database": "named-db",
+      "database": "named-db-2",
       "rules": "firestore.named-db.rules",
       "indexes": "firestore.named-db.indexes.json"
     }
