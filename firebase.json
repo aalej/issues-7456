@@ -1,0 +1,14 @@
+{
+  "firestore": [
+    {
+      "database": "(default)",
+      "rules": "firestore.default.rules",
+      "indexes": "firestore.default.indexes.json"
+    },
+    {
+      "database": "named-db",
+      "rules": "firestore.named-db.rules",
+      "indexes": "firestore.named-db.indexes.json"
+    }
+  ]
+}
